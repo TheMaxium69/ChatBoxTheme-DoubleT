@@ -20,8 +20,8 @@ Theme ChatBox pour la chaine Twitch DoubleT
  
 [Link](https://streamlabs.com/dashboard#/chatbox) -> Enable Custom HTML/CSS -> Enabled
 
-[HTML](https://raw.githubusercontent.com/TheMaxium69/ChatBoxTheme-AuroreTVv/v2/import/chatbox.html) -> Copy code
+[HTML](https://raw.githubusercontent.com/TheMaxium69/ChatBoxTheme-DoubleT/main/chatbox_code/import/chatbox.html) -> Copy code
 
-[CSS](https://raw.githubusercontent.com/TheMaxium69/ChatBoxTheme-AuroreTVv/v2/import/chatbox.css) -> Copy code
+[CSS](https://raw.githubusercontent.com/TheMaxium69/ChatBoxTheme-DoubleT/main/chatbox_code/import/chatbox.css) -> Copy code
 
-[JS](https://raw.githubusercontent.com/TheMaxium69/ChatBoxTheme-AuroreTVv/v2/import/chatbox.js) -> Copy code
+[JS](https://raw.githubusercontent.com/TheMaxium69/ChatBoxTheme-DoubleT/main/chatbox_code/import/chatbox.js) -> Copy code
