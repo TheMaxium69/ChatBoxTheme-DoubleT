@@ -21,6 +21,7 @@ while($x <= 10){
     // HTML CODE
     require "chatbox_code/chatbox_html.phtml";
     
+    // reboucle
     $x++;
 
 }
